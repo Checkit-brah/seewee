@@ -1,0 +1,29 @@
+body{
+  background-color:#979797;
+  color:#260c1a;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 6%;
+  border-color: grey;
+  border-width: 5px;
+}
+
+h1{
+  color:#3ffb28;
+  font-family: bitwise;
+  font-size: 65px;
+
+}
+@import url('https://fonts.googleapis.com/css?family=Orbitron&display=swap');
+h3{
+  font-family: 'Orbitron' sans-serif;
+}
+
+u{
+  color:#f4f3f3;
+  font-style: italic;
+  font-weight: bold;
+}
